@@ -5,7 +5,6 @@ import streamlit as st
 import seaborn as sns
 from streamlit_plotly_events import plotly_events
 import plotly.graph_objects as go
-from st_aggrid import AgGrid
 from plotly.subplots import make_subplots
 
 
